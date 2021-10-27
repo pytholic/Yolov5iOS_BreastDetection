@@ -6,6 +6,13 @@ https://www.youtube.com/watch?v=SkgHz8nw5V8
 Apple links:
 https://developer.apple.com/documentation/vision/recognizing_objects_in_live_capture
 
+
+USEFUL:
 https://machinethink.net/blog/bounding-boxes/
+https://github.com/hollance/coreml-survival-guide/blob/76c6c24c5e96cd253d66d624d75c6becb891bcd3/MobileNetV2%2BSSDLite/ObjectDetection/ObjectDetection/ViewController.swift#L153-L155
+
+
+
+https://machinethink.net/blog/yolo-coreml-versus-mps-graph/
 https://www.py4u.net/discuss/1087289
 https://medium.com/@s.deluca/swift-detecting-rectangles-5c15209f6601
